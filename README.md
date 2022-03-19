@@ -1,18 +1,14 @@
-# Math_tests
-Программа математического обучения и тестирования детей дошкольного и школьного возраста 1-4 классы. 
-
-Название программы - Вычитайка и текущая версия 1.
+# Моя программа "Вычетайка", текущая версия 2
+Программа предназначена для математического обучения детей дошкольного и начального образования 1-4 классы.
 
 Вы можете поддержать проект https://yoomoney.ru/to/410011159143069
 
-Поддерживает ОС(x64) Windows, Linux.
+Поддерживает ОС(x64) Windows, Linux, AstraLinux.
 
 --------------------------------------------------------------------------------------------------
 
-The program of mathematical training and testing of preschool and school-age children grades 1-4.
-
-The name of the program is Proofreading and the current version is 1.
+The program is designed for mathematical education of preschool and primary education children in grades 1-4.
 
 You can support the project https://yoomoney.ru/to/410011159143069
 
-Supports OS (x64) Windows, Linux.
+Supports OS (x64) Windows, Linux, AstraLinux.
